@@ -1,0 +1,7 @@
+Handled missing or incomplete entries using Power Query.
+
+Standardized category/sub-category values for consistency.
+
+Derived sentiment either from manual tagging or basic text classification rules.
+
+Cleaned and structured the text feedback for better visualization and analysis.
